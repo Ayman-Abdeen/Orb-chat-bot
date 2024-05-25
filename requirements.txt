@@ -1,0 +1,8 @@
+langchain==0.2.1
+langchain-community==0.2.1
+langchain-core==0.2.1
+langchain-text-splitters==0.2.0
+#faiss-gpu # Install the faiss module for GPU support
+faiss-cpu==1.8.0 # Install the faiss module for CPU support
+streamlit==1.35.0
+Flask==3.0.3
