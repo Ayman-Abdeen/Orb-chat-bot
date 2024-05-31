@@ -9,3 +9,5 @@ Flask==3.0.3
 #Speech
 faster-whisper
 pyttsx3
+#run_app
+subprocess.run
